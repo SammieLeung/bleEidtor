@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BleEditor</string>
+    <string name="label_device_list">设备列表</string>
+    <string name="old_blue_name">蓝牙名称:</string>
+    <string name="new_blue_name">蓝牙新名称:</string>
+    <string name="pwd">蓝牙密码:</string>
+    <string name="btn_ok">确认</string>
+    <string name="scanning">正在扫描...</string>
+    <string name="start_scan">刷新</string>
+</resources>
